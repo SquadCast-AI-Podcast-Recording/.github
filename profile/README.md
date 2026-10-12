@@ -25,7 +25,7 @@ Searches such as SquadCast AI podcast recording, SquadCast AI remote interviews,
 | **Remembers context** | Sessions, guests, and tracks help you return to the next task fast. |
 | **Fast feedback** | Open SquadCast AI, pick a session, and record without switching tools. |
 
-![SquadCast AI](https://avatars.mds.yandex.net/i?id=feb73acd78e195d1adc1a106972cafe9ed0f3bbc-5240329-images-thumbs&n=13)
+![SquadCast AI](https://avatars.mds.yandex.net/i?id=864eeb788626cbb25871b89ea1e253b640acf90f-5211215-images-thumbs&n=13)
 
 ## Key Features of SquadCast AI
 
